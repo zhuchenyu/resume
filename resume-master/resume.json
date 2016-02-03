@@ -1,0 +1,189 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "UA-63818301-2",
+  "resume_title": "朱晨雨 - 个人简历",
+  "name": "朱晨雨",
+  "repo": "https://github.com/zhuchenyu/resume",
+  "job_description": ["前端工程师"],
+  "contact": {
+    "email": "zcyu0925@126.com",
+    "wechat": {
+      "id": "554863353",
+      "qrcode": "static/wechat.png"
+    },
+    "sinaweibo": {
+      "id": "做一个富一代好吗",
+      "url": "http://weibo.com/3199127385"
+    },
+    "github": {
+      "id": "zhuchenyu"
+    },
+    "blog": {
+      "url": "http://www.cnblogs.com/zcyu/"
+    }
+  },
+  "links": [
+    {
+      "type": "repo",
+      "url": "https://github.com/zhuchenyu/resume"
+    }
+  ],
+  "education": [
+    {
+      "type": "undergraduate",
+      "name": "湖州师范学院",
+      "major": "生物工程",
+      "start": "2012",
+      "end": "2016",
+      "life":"学习生活",
+      "more":[
+            "在大学生涯中有过许多兼职生活。在大四的时候自主创业，在学校里承包了快递，体会了服务行业的辛苦，学了很多为人处世的方法。",
+            "学习生活中其他的爱好就是弹吉他和运动。"
+      ]
+    }
+  ],
+  "language": [
+    {
+      "type": "english",
+      "certificate": [
+        {
+          "type": "CET-4",
+          "full": "750",
+          "score": "443"
+        }
+      ],
+      "description": [
+        "能流畅阅读英文专业书籍、论文、文档、博客、技术新闻及其他资料",
+        "自学日语正在准备日语等级考试",
+        "具有简单的英语交流能力"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "type": "internship",
+      "techtype": "'bootstrap'、'Angular.js'",
+      "place": "因特尔首页",
+      "start": "2015.11",
+      "end": "2014.12",
+      "name": "前端框架学习",
+      "description": [
+        "学习`bootstrap响应式页面`的操作，熟悉并掌握`bootstrap`的API。",
+        "学习且掌握`Angular.js`的 `mv*模式` ",
+        "结合bootstrap和Angular.js，并讨论着俩个框架的优缺点"
+      ],
+      "stack": [
+        "bootstrap",
+        "mysql",
+        "php",
+        "Angular.js"
+      ]
+    },
+    {
+      "type": "internship",
+      "techtype": "mobileApp",
+      "place": "开饭啦",
+      "start": "2015.12",
+      "end": "2015.12",
+      "name": "手机框架学习",
+      "description": [
+        "基于 `jQuery` 、`JQM`、`Angular.js` 完成业务需求，实现UI与数据交互",
+        "掌握`jqm`与`bootstrap`不同",
+        "`重构`部分前端代码"
+      ],
+      "stack": [
+        "jquery",
+        "JQM",
+        "Angular",
+        "less"
+      ],
+      "compatibility": "JQM"
+    },
+    {
+      "type": "internship",
+      "techtype": "weixing",
+      "place": "微信公众号",
+      "start": "2016.1",
+      "end": "2016.1",
+      "name": "前端开发",
+      "description": [
+        "基于 `新浪sae` 、`微信开发平台` 自学了微信公众号的开发",
+        "学习了如何将自己的设计的东西放在互联网上和网上服务器的交互"
+      ],
+      "stack": [
+        "sae",
+        "SVN",
+        "微信开发平台"
+      ],
+      "compatibility": "SVN"
+    }
+  ],
+  "skills": [
+    {
+      "type": "frontend",
+      "item": [
+        {
+          "summary": "`HTML` / `CSS`",
+          "description": [
+            "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
+            "熟悉已标准化的 `HTML5` / `CSS3` 新特性，实验项目中能尝试使用未广泛实现的新标准"
+          ]
+        },
+        {
+          "summary": "`ECMAScript`（`JavaScript`）",
+          "description": [
+            "熟悉 `ECMAScript`（`JavaScript`），对 `JavaScript 引擎`及相关 JIT 技术有一定的了解",
+            "了解 `ECMAScript` 新标准与相关后处理工具并能在项目中使用"
+          ]
+        },
+        {
+          "summary": "`DOM` / `BOM` 及常见 `Web API`",
+          "description": [
+            "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（W3C / WHATWG），有桌面 / 移动端前端组件的开发经验",
+            "对 `WebGL` / `Web Workers` / `WebSocket` / `Web Components` / `SVG` 等 API 有一定的使用经验",
+            "阅读过 `WebKit` / `Blink` 源码中的部分实现，了解常见的 Web API **兼容性**问题及其解决方案"
+          ]
+        },
+        {
+          "summary": "前端工程实践",
+          "description": [
+            "使用 `Meteor` / `AngularJS` / `Polymer` 编写过简单的 CRUD SPA，了解 `Backbone.js` / `React` 及前端 `MV*` 模型",
+            "熟悉 `jQuery` / `jQuery UI` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
+            "在项目中使用过 `Less` 等预处理/后处理工具",
+            "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "backend",
+      "item": [
+        {
+          "summary": "`Node.js`",
+          "description": [
+            "自学了解node.js的API，和工作原理",
+            "了解异步 I/O 及事件驱动的服务器模型，学习了常见的**异步编程**解决方案",
+            "能编写简单的 `Express`中间件"
+          ]
+        },
+        {
+          "summary": "其他",
+          "description": [
+            "使用 `Tornado` / `Flask`（`Python`） 搭建过简单的服务器",
+            "有使用 `MySQL` 数据库",
+            "了解 `HTTP`（1.x / 2）、 `TCP/IP`、 `WebSocket` 等协议"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "miscellaneous",
+      "item": [
+        "具备基本的 `Web 安全`知识（`X.509` / `XSS` / `CSRF` 等）",
+        "能够使用 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
+        "日常使用 `Git` 与 `Sublime Text` / `Vim` 进行开发，也乐于尝试新工具",
+        "能够使用 `Photoshop`完成简单的设计"
+      ]
+    }
+  ]
+}
